@@ -1,0 +1,124 @@
+
+# Copyright (C) 2023 Your Name
+# This file is distributed under the same license as the Map Assessment and Training System plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Map Assessment and Training System 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/map-assessment\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-01T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: map-assessment\n"
+
+#: admin/class-map-assessment-admin.php:31
+msgid "Map Assessment"
+msgstr ""
+
+#: admin/class-map-assessment-admin.php:68
+msgid "Question saved successfully"
+msgstr ""
+
+#: admin/class-map-assessment-admin.php:107
+msgid "Feedback saved successfully"
+msgstr ""
+
+#: public/class-map-assessment-public.php:38
+msgid "Invalid question ID"
+msgstr ""
+
+#: public/class-map-assessment-public.php:46
+msgid "Question not found"
+msgstr ""
+
+#: public/class-map-assessment-public.php:87
+msgid "Submission saved successfully"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:3
+msgid "Set Green Icon"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:4
+msgid "Set Red Icon"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:5
+msgid "UNDO"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:6
+msgid "CLEAR"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:7
+msgid "BRIGHTNESS"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:8
+msgid "HOME"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:11
+msgid "FETCH ROUTE"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:12
+msgid "RESULTS"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:13
+msgid "SAVE USER MAP"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:20
+msgid "Instructions:"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:21
+msgid "Use the tools above to create a question. Set green and red markers, then enter your question text."
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:30
+msgid "Write your question here..."
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:31
+msgid "Create Question"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:33
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:38
+msgid "Shortcode:"
+msgstr ""
+
+#: admin/partials/map-assessment-admin-display.php:43
+msgid "User Submissions"
+msgstr ""
+
+#: public/partials/map-assessment-public-display.php:5
+msgid "Start Drawing"
+msgstr ""
+
+#: public/partials/map-assessment-public-display.php:6
+msgid "Undo"
+msgstr ""
+
+#: public/partials/map-assessment-public-display.php:7
+msgid "Clear"
+msgstr ""
+
+#: public/partials/map-assessment-public-display.php:8
+msgid "Submit Route"
+msgstr ""
+
+#: public/partials/map-assessment-public-display.php:11
+msgid "Question:"
+msgstr ""
